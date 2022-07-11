@@ -1,0 +1,9 @@
+{
+    "message_id": "Some message",
+    "parameterized": "Here: $x",
+    "contextual_male": "Male message",
+    "contextual_female": "Female message",
+    "qty_empty": "Empty ($number)",
+    "qty_one": "One ($number)",
+    "qty_multiple": "Multiple ($number)"
+}
